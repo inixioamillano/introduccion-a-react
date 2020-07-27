@@ -14,7 +14,7 @@ React es una librería orientada a componentes, es decir, programaremos elemento
 
 Un componente puede o no tener un estado. Un estado es un conjunto de variables asociado a un componente en un momento determinado, de modo que un componente tendrá un estado inicial que irá cambiando a lo largo del tiempo. 
 
-#### Compònentes sin estado
+#### Componentes sin estado
 
 Un componente sin estado es aquel que no tiene ningún estado almacenado. Cuando queremos crear un componente sin estado, lo más habitual es crear un componente de tipo función. Un componente de tipo funcoón es uno que se declara como una función de javascript que devolverá elementos JSX.
 
